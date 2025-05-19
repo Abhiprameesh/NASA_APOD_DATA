@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/snehaapratap/NASA_APOD_DATA.git
+git clone https://github.com/Abhiprameesh/NASA_APOD_DATA.git
 cd NASA_APOD_DATA
 ```
 
